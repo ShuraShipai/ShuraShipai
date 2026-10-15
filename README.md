@@ -1,4 +1,4 @@
-![Profile Banner]()
+![Profile Banner](https://github.com/ShuraShipai/ShuraShipai/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shura Mohammed Bilal Shahid</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
