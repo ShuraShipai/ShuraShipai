@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shura Mohammed Bilal Shahid</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Tidy – iOS Storage Cleaner](https://github.com/ShuraShipai/Tidy)
+-  I’m currently working on [Tidy – iOS Storage Cleaner](https://github.com/ShuraShipai/Tidy)
 
-- 🌱 I’m currently learning **Advanced Flutte, AI/ML and Backend Development**
+-  I’m currently learning **Advanced Flutte, AI/ML and Backend Development**
 
-- 👯 I’m looking to collaborate on **Flutter, AI/ML and Open-Source Projects**
+-  I’m looking to collaborate on **Flutter, AI/ML and Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShuraShipai?tab=repositories](https://github.com/ShuraShipai?tab=repositories)
+-  All of my projects are available at [https://github.com/ShuraShipai?tab=repositories](https://github.com/ShuraShipai?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Mobile App Development and UI/UX**
+-  Ask me about **Flutter, Dart, Firebase, Mobile App Development and UI/UX**
 
-- 📫 How to reach me **shura.shipai05@gmail.com**
+-  How to reach me **shura.shipai05@gmail.com**
 
-- ⚡ Fun fact **I love turning complex ideas into simple, beautiful apps.**
+-  Fun fact **I love turning complex ideas into simple, beautiful apps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
